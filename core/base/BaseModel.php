@@ -3,7 +3,7 @@
  * created by: Nikolay Tuzov
  */
 
-namespace sk\core\base;
+namespace adeka\core\base;
 
 use sk\core\Db;
 use Valitron\Validator;

@@ -1,19 +1,22 @@
 {
-    "name": "justskiv/adeka",
-    "authors": [
-        {
-            "name": "Nikolay Tuzov",
-            "email": "tuzov.n@gmail.com"
-        }
-    ],
-    "require": {
-        "monolog/monolog": "^1.23",
-        "vlucas/valitron": "^1.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "adeka\\": "vendor/justskiv/adeka",
-            "app\\": "app"
-        }
+  "name": "justskiv/adeka",
+  "description": "Adeka Framework",
+  "type": "framework",
+  "authors": [
+    {
+      "name": "Nikolay Tuzov",
+      "email": "tuzov.n@gmail.com"
     }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "monolog/monolog": "^1.23",
+    "vlucas/valitron": "^1.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "adeka\\": "vendor/justskiv/adeka",
+      "app\\": "app"
+    }
+  }
 }

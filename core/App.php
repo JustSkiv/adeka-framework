@@ -3,7 +3,7 @@
  * created by: Nikolay Tuzov
  */
 
-namespace sk\core;
+namespace adeka\core;
 
 
 class App

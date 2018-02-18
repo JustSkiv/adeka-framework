@@ -1,8 +1,8 @@
 <?php
 
-namespace sk\core;
+namespace adeka\core;
 
-use sk\libs\helpers\UrlHelper;
+use adeka\libs\helpers\UrlHelper;
 
 
 /**

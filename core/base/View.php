@@ -3,7 +3,7 @@
  * Created by Nikolay Tuzov
  */
 
-namespace sk\core\base;
+namespace adeka\core\base;
 
 class View
 {
