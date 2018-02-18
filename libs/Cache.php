@@ -3,7 +3,7 @@
  * Created by Nikolay Tuzov
  */
 
-namespace sk\libs;
+namespace adeka\libs;
 
 
 class Cache

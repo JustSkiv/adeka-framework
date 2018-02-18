@@ -5,7 +5,7 @@
 
 namespace adeka\core\base;
 
-use sk\core\Db;
+use adeka\core\Db;
 use Valitron\Validator;
 
 abstract class BaseModel

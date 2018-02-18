@@ -1,5 +1,5 @@
 <?php
-namespace sk\libs\helpers;
+namespace adeka\libs\helpers;
 /**
  * Created by Nikolay Tuzov
  *

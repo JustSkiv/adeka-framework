@@ -1,6 +1,6 @@
 <?php
 
-namespace sk\libs\helpers;
+namespace skadeka\libs\helpers;
 /**
  * Created by Nikolay Tuzov
  *
