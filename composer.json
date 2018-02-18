@@ -1,0 +1,19 @@
+{
+    "name": "justskiv/adeka",
+    "authors": [
+        {
+            "name": "Nikolay Tuzov",
+            "email": "tuzov.n@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "vlucas/valitron": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "adeka\\": "vendor/justskiv/adeka",
+            "app\\": "app"
+        }
+    }
+}
